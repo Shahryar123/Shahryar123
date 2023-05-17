@@ -1,6 +1,4 @@
 ### Hi there 👋
-
---<img src="https://raw.githubusercontent.com/saadpasta/saadpasta/master/Banner%20.png"/>
  <hr></hr>
 
 
