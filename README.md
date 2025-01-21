@@ -6,8 +6,8 @@
   <samp>
     Hi, I'm Shahryar! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, DotNet, C#|C++, Angular ... <br>
-    :email:	muhammad.shahryar@braincrop.net <br>
+    :sparkles: Favorite Tech: JavaScript, DotNet Core, C#|C++, Azure DevOps ... <br>
+    :email:	muhammadshahryar135@gmail.com <br>
     :art: Portfolio: https://Shahryar123.github.io <br>
   </samp>
 </p>
