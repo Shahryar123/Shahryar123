@@ -1,36 +1,42 @@
-### Hi there 👋
- <hr></hr>
+## Muhammad Shahryar
 
+**Senior Software Engineer** at Alpha Mu Digital Ventures · Karachi, Pakistan (UTC+5)
 
-<p align="center">
-  <samp>
-    Hi, I'm Shahryar! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
-    :sparkles: Favorite Tech: JavaScript, DotNet Core, C#|C++, Azure DevOps ... <br>
-    :email:	muhammadshahryar135@gmail.com <br>
-    :art: Portfolio: https://shahryar123.github.io/findShahryar.com/ <br>
-  </samp>
+I build production web apps end to end, from React and Next.js front ends to .NET and Node.js APIs. I also own the cloud side: Docker, CI/CD pipelines and infrastructure as code on AWS and Azure. Lately I've been building AI agents and LLM evaluation pipelines.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-meetshahryar.com-1f6f6a?style=flat-square)](https://meetshahryar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahryar123-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahryar123)
+[![Email](https://img.shields.io/badge/Email-contact%40meetshahryar.com-555?style=flat-square&logo=maildotru&logoColor=white)](mailto:contact@meetshahryar.com)
+[![CV](https://img.shields.io/badge/CV-PDF-ffb224?style=flat-square)](https://meetshahryar.com/Muhammad_Shahryar_Software_Engineer.pdf)
+
+### What I work on
+
+- **Full-stack development:** React, Next.js and Angular front ends; ASP.NET Core and Node.js/Express APIs; PostgreSQL and SQL Server
+- **Cloud and DevOps:** AWS and Azure, Docker, GitHub Actions and Azure DevOps pipelines, Terraform and Pulumi
+- **AI and LLMs:** agentic workflows, tool calling, RAG, and LLM-as-a-judge evaluation with the Anthropic and OpenAI APIs
+- **Architecture:** Clean Architecture, Domain-Driven Design, microservices and offline-first PWAs
+
+### Selected projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **TrackIQ** | RFID inventory and asset tracking from manufacturing to sale, with handheld and desktop readers feeding real-time stock data | React, Node.js, PostgreSQL, Docker |
+| **Layered LLM evaluation harness** | Four-layer evaluation (safety checks, LLM-as-a-judge scoring, human review, regression detection) with 95 automated tests in CI | Python, Pytest, GitHub Actions, Anthropic API |
+| **DevOps automation platform** | Self-service portal that provisions cloud infrastructure across environments through Pulumi and Azure DevOps | React, Pulumi, Pulumi ESC, Azure DevOps |
+| **AR virtual try-on** | Real-time, in-browser try-on using MediaPipe pose estimation and segmentation | React, MediaPipe, Three.js |
+
+More case studies are on [meetshahryar.com](https://meetshahryar.com/#work).
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,angular,nodejs,ts,py,postgres,mysql,docker,aws,azure,terraform,githubactions,git&perline=8" alt="C#, .NET, React, Next.js, Angular, Node.js, TypeScript, Python, PostgreSQL, MySQL, Docker, AWS, Azure, Terraform, GitHub Actions, Git" />
 </p>
 
-### Connect with me:
+### Certifications
 
-[![website](./img/globe-light.svg)](https://shahryar123.github.io#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://shahryar123.github.io#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](http://www.linkedin.com/in/muhammad-shahryar-87b7001a1#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](http://www.linkedin.com/in/muhammad-shahryar-87b7001a1#gh-dark-mode-only)
+Databricks Fundamentals · Data Ingestion with Lakeflow Connect (Databricks) · ASP.NET Core Web API (.NET 8) · JavaScript Algorithms and Data Structures (freeCodeCamp) · AWS Fundamentals: Going Cloud-Native
 
-### Languages and Tools:
+---
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<br />
-<br />
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-
+<sub>Open to conversations about engineering roles and interesting projects. The fastest way to reach me is through the <a href="https://meetshahryar.com/#contact">contact form</a>.</sub>
